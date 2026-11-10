@@ -1,0 +1,13 @@
+# Colab provides most of these. Pin exact versions from `pip freeze` once the final runs are done.
+routellm==0.2.0
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib
+transformers
+datasets
+huggingface_hub
+openpyxl
+nbstripout
