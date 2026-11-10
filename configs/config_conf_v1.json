@@ -12,8 +12,8 @@
   "router_checkpoint": "routellm/bert_gpt4_augmented",
   "routellm_version": "0.2.0",
   "input_file": "confirmatory_v1.csv",
-  "input_sha256": "c515c9822553eb91b2e201f782823e554e2ad93eee3d2246edb86effba848edd",
-  "run_date_utc": "2026-10-24T17:24:14+00:00",
-  "n_pairs": 80,
+  "input_sha256": "5ccaa0347da5cc9f800ab197ee9fedf205e7108f5e9a974b57b5665c00b65775",
+  "run_date_utc": "2026-10-30T06:05:38+00:00",
+  "n_pairs": 152,
   "score_file_scope": "confirmatory main run"
 }
