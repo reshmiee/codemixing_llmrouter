@@ -3,8 +3,6 @@
 Does the RouteLLM BERT router score Hinglish questions differently from their English twins?
 Main finding (152 confirmatory pairs): the average score is the same, but Hinglish scores have about half the spread of English scores, so routing depends on the cut-off. Answer quality was not measured.
 
-Team: Jhalak Mittal, Aryan Singhal, Reshmi Yadav, Neha Malhotra (GLA University).
-
 ## Layout
 | Folder | Contents |
 | --- | --- |
