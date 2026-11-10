@@ -1,0 +1,4 @@
+router,mean_share_error,mean_gain,pct_splits_gain_positive,mean_cost_vs_random_same_share
+BERT,0.0234,0.0084,96.0,-0.4584
+MF,0.0259,0.0135,100.0,-0.2272
+SW-ranking,0.0243,0.0085,95.6667,-0.3129

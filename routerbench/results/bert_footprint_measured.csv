@@ -1,0 +1,2 @@
+router,gpu,load_s,ram_gb,s_per_prompt,repeat_max_diff,vs_saved_max_diff
+BERT,False,7.788762331008911,2.232385536,0.3045852518081665,0.0,1.4646911628002357e-08
