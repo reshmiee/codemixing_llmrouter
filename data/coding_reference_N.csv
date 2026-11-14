@@ -1,0 +1,66 @@
+source_id,difficulty,mbpp_original_text
+MBPP-533,Easy,Write a function to remove particular data type elements from the given tuple.
+MBPP-229,Easy,Write a function to re-arrange the elements of the given array so that all negative elements appear before positive ones.
+MBPP-870,Easy,Write a function to calculate the sum of the positive numbers of a given list of numbers using lambda function.
+MBPP-955,Easy,"Write a function to find out, if the given number is abundant."
+MBPP-153,Easy,Write a function to find the vertex of a parabola.
+MBPP-354,Easy,Write a function to find t-nth term of arithemetic progression.
+MBPP-482,Easy,Write a function to find sequences of one upper case letter followed by lower case letters in the given string by using regex.
+MBPP-386,Easy,Write a function to find out the minimum no of swaps required for bracket balancing in the given string.
+MBPP-618,Easy,Write a function to divide two lists using map and lambda function.
+MBPP-638,Easy,Write a function to calculate wind chill index.
+MBPP-419,Easy,Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.
+MBPP-353,Easy,Write a function to remove a specified column from a given nested list.
+MBPP-296,Easy,Write a python function to count inversions in an array.
+MBPP-160,Easy,Write a function to find x and y that satisfies ax + by = n.
+MBPP-852,Easy,Write a python function to remove negative numbers from a list.
+MBPP-836,Easy,Write a function to find length of the subarray having maximum sum.
+MBPP-304,Easy,Write a python function to find element at a given index after number of rotations.
+MBPP-823,Easy,Write a function to check if the given string starts with a substring using regex.
+MBPP-455,Easy,Write a function to check whether the given month number contains 31 days or not.
+MBPP-920,Easy,Write a function to remove all tuples with all none values in the given tuple list.
+MBPP-535,Easy,Write a function to find the top or bottom surface area of a cylinder.
+MBPP-966,Easy,Write a function to remove an empty tuple from a list of tuples.
+MBPP-549,Easy,Write a python function to find the sum of fifth power of first n odd natural numbers.
+MBPP-32,Easy,Write a python function to find the largest prime factor of a given number.
+MBPP-695,Easy,Write a function to check if each element of the second tuple is greater than its corresponding index in the first tuple.
+MBPP-228,Easy,Write a python function to check whether all the bits are unset in the given range or not.
+MBPP-101,Easy,Write a function to find the kth element in the given array.
+MBPP-941,Easy,Write a function to count the elements in a list until an element is a tuple.
+MBPP-46,Easy,Write a python function to determine whether all the numbers are different from each other are not.
+MBPP-227,Easy,Write a function to find minimum of three numbers.
+MBPP-277,Easy,Write a function to filter a dictionary based on values.
+MBPP-600,Easy,Write a python function to check whether the given number is even or not using bitwise operator.
+MBPP-185,Easy,Write a function to find the focus of a parabola.
+MBPP-554,Easy,Write a python function to find odd numbers from a mixed list.
+MBPP-722,Easy,Write a function to filter the height and width of students which are stored in a dictionary.
+MBPP-162,Easy,Write a function to calculate the sum of the positive integers of n+(n-2)+(n-4)... (until n-x =< 0).
+MBPP-62,Easy,Write a python function to find smallest number in a list.
+MBPP-821,Easy,Write a function to merge two dictionaries into a single expression.
+MBPP-969,Easy,Write a function to join the tuples if they have similar initial elements.
+MBPP-334,Easy,Write a python function to check whether the triangle is valid or not if sides are given.
+LeetCode-238,Hard,WRITE YOUR OWN WORDING. Problem: Product of Array Except Self
+LeetCode-347,Hard,WRITE YOUR OWN WORDING. Problem: Top K Frequent Elements
+LeetCode-139,Hard,WRITE YOUR OWN WORDING. Problem: Word Break
+LeetCode-133,Hard,WRITE YOUR OWN WORDING. Problem: Clone Graph
+LeetCode-79,Hard,WRITE YOUR OWN WORDING. Problem: Word Search
+LeetCode-208,Hard,WRITE YOUR OWN WORDING. Problem: Implement Trie
+LeetCode-300,Hard,WRITE YOUR OWN WORDING. Problem: Longest Increasing Subsequence
+LeetCode-62,Hard,WRITE YOUR OWN WORDING. Problem: Unique Paths
+LeetCode-297,Hard,WRITE YOUR OWN WORDING. Problem: Serialize and Deserialize Binary Tree
+LeetCode-15,Hard,WRITE YOUR OWN WORDING. Problem: 3Sum
+LeetCode-410,Hard,WRITE YOUR OWN WORDING. Problem: Split Array Largest Sum
+LeetCode-494,Hard,WRITE YOUR OWN WORDING. Problem: Target Sum
+LeetCode-416,Hard,WRITE YOUR OWN WORDING. Problem: Partition Equal Subset Sum
+LeetCode-739,Hard,WRITE YOUR OWN WORDING. Problem: Daily Temperatures
+LeetCode-621,Hard,WRITE YOUR OWN WORDING. Problem: Task Scheduler
+LeetCode-399,Hard,WRITE YOUR OWN WORDING. Problem: Evaluate Division
+LeetCode-560,Hard,WRITE YOUR OWN WORDING. Problem: Subarray Sum Equals K
+LeetCode-55,Hard,WRITE YOUR OWN WORDING. Problem: Jump Game
+LeetCode-98,Hard,WRITE YOUR OWN WORDING. Problem: Validate Binary Search Tree
+LeetCode-39,Hard,WRITE YOUR OWN WORDING. Problem: Combination Sum
+LeetCode-152,Hard,WRITE YOUR OWN WORDING. Problem: Maximum Product Subarray
+LeetCode-128,Hard,WRITE YOUR OWN WORDING. Problem: Longest Consecutive Sequence
+LeetCode-49,Hard,WRITE YOUR OWN WORDING. Problem: Group Anagrams
+LeetCode-329,Hard,WRITE YOUR OWN WORDING. Problem: Longest Increasing Path in a Matrix
+LeetCode-10,Hard,WRITE YOUR OWN WORDING. Problem: Regular Expression Matching
