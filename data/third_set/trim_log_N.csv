@@ -1,0 +1,16 @@
+source_id,difficulty,mbpp_original_text,drop_reason
+MBPP-153,Easy,Write a function to find the vertex of a parabola.,Requires a hidden formula or has unclear/incorrect wording.
+MBPP-354,Easy,Write a function to find t-nth term of arithemetic progression.,Requires a hidden formula or has unclear/incorrect wording.
+MBPP-386,Easy,Write a function to find out the minimum no of swaps required for bracket balancing in the given string.,"Algorithm problem; not one function with a single, familiar idea."
+MBPP-638,Easy,Write a function to calculate wind chill index.,Requires a hidden formula or has unclear/incorrect wording.
+MBPP-296,Easy,Write a python function to count inversions in an array.,"Algorithm problem; not one function with a single, familiar idea."
+MBPP-160,Easy,Write a function to find x and y that satisfies ax + by = n.,"Algorithm problem; not one function with a single, familiar idea."
+MBPP-836,Easy,Write a function to find length of the subarray having maximum sum.,"Algorithm problem; not one function with a single, familiar idea."
+MBPP-304,Easy,Write a python function to find element at a given index after number of rotations.,"Wording/specification is ambiguous or unclear, making a faithful Hinglish twin difficult."
+MBPP-695,Easy,Write a function to check if each element of the second tuple is greater than its corresponding index in the first tuple.,"Wording/specification is ambiguous or unclear, making a faithful Hinglish twin difficult."
+MBPP-228,Easy,Write a python function to check whether all the bits are unset in the given range or not.,"Wording/specification is ambiguous or unclear, making a faithful Hinglish twin difficult."
+MBPP-941,Easy,Write a function to count the elements in a list until an element is a tuple.,"Wording/specification is ambiguous or unclear, making a faithful Hinglish twin difficult."
+MBPP-185,Easy,Write a function to find the focus of a parabola.,Requires a hidden formula or has unclear/incorrect wording.
+MBPP-722,Easy,Write a function to filter the height and width of students which are stored in a dictionary.,The meaning of “filter” is vague in the task specification.
+MBPP-162,Easy,Write a function to calculate the sum of the positive integers of n+(n-2)+(n-4)... (until n-x =< 0).,"Wording/specification is ambiguous or unclear, making a faithful Hinglish twin difficult."
+MBPP-969,Easy,Write a function to join the tuples if they have similar initial elements.,The meaning of “join” is vague in the task specification.
